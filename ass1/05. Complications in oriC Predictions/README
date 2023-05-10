@@ -1,0 +1,9 @@
+Since the skew diagram for Thermotoga petrophila is complex and the oriC for this genome has not even been experimentally verified, there is a chance that the region predicted by Ori-Finder software as the oriC region for Thermotoga petrophila (or even for Vibrio cholerae) is actually incorrect!
+
+You should now have a good sense of the practical considerations involved in locating oriC and DnaA boxes computationally. We will take the training wheels off and ask you to solve a Final Challenge by working with the Salmonella enterica genome.
+
+The file is given in the widely used FASTA format, which you can learn about here[1].
+
+FINAL CHALLENGE: Find a DnaA box in Salmonella enterica.
+
+[1]http://rosalind.info/glossary/fasta-format/
